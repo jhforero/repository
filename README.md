@@ -1,4 +1,4 @@
-# repository
+# Repository
 Repositorio de prueba
 
 mi primera contribución local para github
@@ -11,3 +11,5 @@ un commit mas desde github
 una actualización más
 
 cambios desde mi rama local llamada developer01
+
+Cambios en mi Readme
